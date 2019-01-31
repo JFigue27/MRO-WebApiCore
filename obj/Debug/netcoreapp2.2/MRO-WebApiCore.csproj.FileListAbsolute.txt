@@ -1,0 +1,14 @@
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\bin\Debug\netcoreapp2.2\MRO-WebApiCore.deps.json
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\bin\Debug\netcoreapp2.2\MRO-WebApiCore.runtimeconfig.json
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\bin\Debug\netcoreapp2.2\MRO-WebApiCore.runtimeconfig.dev.json
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\bin\Debug\netcoreapp2.2\MRO-WebApiCore.dll
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\bin\Debug\netcoreapp2.2\MRO-WebApiCore.pdb
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.csprojAssemblyReference.cache
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.csproj.CoreCompileInputs.cache
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.RazorAssemblyInfo.cache
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.RazorAssemblyInfo.cs
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.AssemblyInfoInputs.cache
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.AssemblyInfo.cs
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.RazorTargetAssemblyInfo.cache
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.dll
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\MRO-WebApiCore\obj\Debug\netcoreapp2.2\MRO-WebApiCore.pdb
